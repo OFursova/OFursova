@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OFursova
 - 👀 I’m interested in web development, writing backend with Laravel and Marvel Universe
-- 🌱 I’m currently learning GoLang and continue mastering PHP & Laravel
+- 🌱 I’m currently learning Vue.JS and continue mastering PHP & Laravel
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
